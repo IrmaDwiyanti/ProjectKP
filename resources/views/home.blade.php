@@ -13,5 +13,7 @@
     <h1>halaman home</h1>
     <p>lorem</p>
     <h1>Bandung</h1>
+        <h1>Majalengka</h1>
+
 </body>
 </html>
